@@ -1,0 +1,14 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url(../img/bg004.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-color01 {
+    background-color: #e78bd8;
+}
